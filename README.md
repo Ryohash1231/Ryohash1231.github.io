@@ -16,6 +16,7 @@ B.A., Mathematical Biology/Economics | University of Pennsylvania (2021)
 ** Super cool thing no.1**
 - Its so cool
 - so cool
+- [Link](./sample_project.html).
 
 ** Super cool thing no.2**
 - Its so cool
